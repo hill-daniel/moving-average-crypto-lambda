@@ -1,0 +1,6 @@
+{
+  "default": {
+    "deviationThreshold": 4.0,
+    "maxDaysCap": 168
+  }
+}
